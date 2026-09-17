@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,state,region,warehouse_capacity
+W01,Warehouse 01,Chandigarh,Delhi,North,17142
+W02,Warehouse 02,Patna,West Bengal,East,33918
+W03,Warehouse 03,Hyderabad,Tamil Nadu,South,63661
+W04,Warehouse 04,Ahmedabad,Rajasthan,West,22419
+W05,Warehouse 05,Bhopal,Madhya Pradesh,Central,65797
+W06,Warehouse 06,Raipur,Chhattisgarh,Central,68910
+W07,Warehouse 07,Chandigarh,Haryana,North,50805
+W08,Warehouse 08,Bengaluru,Tamil Nadu,South,63233
+W09,Warehouse 09,Bengaluru,Tamil Nadu,South,44473
+W10,Warehouse 10,Kolkata,Odisha,East,43774
+W11,Warehouse 11,Delhi,Delhi,North,68130
+W12,Warehouse 12,Raipur,Chhattisgarh,Central,54994
+W13,Warehouse 13,Ahmedabad,Maharashtra,West,24124
+W14,Warehouse 14,Bengaluru,Karnataka,South,52360
+W15,Warehouse 15,Bhubaneswar,Bihar,East,54115

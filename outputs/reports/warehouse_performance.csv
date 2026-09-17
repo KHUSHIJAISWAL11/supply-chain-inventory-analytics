@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,state,region,warehouse_capacity,inventory_value,units_sold,damaged_units,stockout_records,excess_stock_records
+W01,Warehouse 01,Chandigarh,Delhi,North,17142,690679507.18,128563,26097,216,5033
+W02,Warehouse 02,Patna,West Bengal,East,33918,686597320.86,128685,26283,155,5055
+W03,Warehouse 03,Hyderabad,Tamil Nadu,South,63661,684461165.7,128230,26244,178,5029
+W04,Warehouse 04,Ahmedabad,Rajasthan,West,22419,693492594.3100001,126826,26933,180,5036
+W05,Warehouse 05,Bhopal,Madhya Pradesh,Central,65797,691338804.21,127398,26480,149,5047
+W06,Warehouse 06,Raipur,Chhattisgarh,Central,68910,686118182.75,132406,27351,186,5049
+W07,Warehouse 07,Chandigarh,Haryana,North,50805,690456876.82,129925,26631,174,5025
+W08,Warehouse 08,Bengaluru,Tamil Nadu,South,63233,690661237.28,131703,26160,178,5004
+W09,Warehouse 09,Bengaluru,Tamil Nadu,South,44473,681061118.65,130210,26512,179,5036
+W10,Warehouse 10,Kolkata,Odisha,East,43774,682942110.33,128540,26263,193,5040
+W11,Warehouse 11,Delhi,Delhi,North,68130,683980014.23,129422,26620,175,5063
+W12,Warehouse 12,Raipur,Chhattisgarh,Central,54994,685202504.7,128320,26257,168,5025
+W13,Warehouse 13,Ahmedabad,Maharashtra,West,24124,691260987.67,129984,26672,152,5046
+W14,Warehouse 14,Bengaluru,Karnataka,South,52360,683286007.54,127398,26516,179,5028
+W15,Warehouse 15,Bhubaneswar,Bihar,East,54115,680500235.21,128719,26503,196,5026

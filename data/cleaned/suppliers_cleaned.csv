@@ -1,0 +1,41 @@
+supplier_id,supplier_name,supplier_region,average_lead_time,defect_rate
+S001,Prime Distribution 1,West,5,0.0208
+S002,BluePeak Distributors 2,South,28,0.0671
+S003,Swift Supply 3,Central,23,0.0343
+S004,Apex Components 4,East,19,0.095
+S005,Swift Supply 5,Central,21,0.0266
+S006,Global Goods 6,North,8,0.0425
+S007,Prime Distribution 7,North,31,0.1135
+S008,Evergreen Supply 8,South,14,0.0477
+S009,BluePeak Distributors 9,South,20,0.0483
+S010,Global Goods 10,North,28,0.0866
+S011,Prime Distribution 11,East,14,0.0149
+S012,Alpha Supply Co 12,North,32,0.0477
+S013,Reliable Source 13,North,30,0.0281
+S014,BluePeak Distributors 14,South,10,0.0707
+S015,BluePeak Distributors 15,East,18,0.1154
+S016,Omni Wholesale 16,South,17,0.0793
+S017,Reliable Source 17,South,26,0.0575
+S018,Swift Supply 18,North,24,0.1071
+S019,Urban Trade Hub 19,West,18,0.0528
+S020,Nexus Traders 20,South,13,0.0928
+S021,Urban Trade Hub 21,North,8,0.0979
+S022,Vertex Wholesale 22,Central,16,0.0459
+S023,Prime Distribution 23,West,13,0.0838
+S024,BluePeak Distributors 24,West,35,0.0803
+S025,Apex Components 25,Central,24,0.0532
+S026,Evergreen Supply 26,North,16,0.103
+S027,Vertex Wholesale 27,Central,31,0.0841
+S028,WestBridge Supplies 28,East,24,0.0749
+S029,Evergreen Supply 29,South,8,0.0362
+S030,Vertex Wholesale 30,North,16,0.0863
+S031,Apex Components 31,Central,18,0.0756
+S032,Apex Components 32,Central,18,0.0304
+S033,Swift Supply 33,Central,34,0.081
+S034,BluePeak Distributors 34,South,10,0.0639
+S035,Vertex Wholesale 35,South,15,0.1026
+S036,Alpha Supply Co 36,Central,32,0.0495
+S037,Global Goods 37,North,9,0.0315
+S038,BluePeak Distributors 38,West,21,0.0818
+S039,Reliable Source 39,West,20,0.0557
+S040,Global Goods 40,West,10,0.0191

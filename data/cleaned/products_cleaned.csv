@@ -1,0 +1,401 @@
+product_id,product_name,category,subcategory,unit_cost,selling_price,reorder_level
+P0001,Coffee Max 1,Grocery,Beverages,63.49,79.08,46
+P0002,Juice Smart 2,Grocery,Beverages,10.85,13.28,79
+P0003,Gym Bag Essential 3,Sports & Fitness,Fitness,179.86,271.52,127
+P0004,Chair Max 4,Home & Kitchen,Storage,202.93,240.08,226
+P0005,Mixer Max 5,Home & Kitchen,Storage,41.4,67.48,106
+P0006,Keyboard Plus 6,Electronics,Accessories,91.67,122.99,87
+P0007,Power Bank Plus 7,Electronics,Mobile,243.36,330.46,161
+P0008,Calculator Essential 8,Office Supplies,Office Equipment,177.03,212.71,78
+P0009,File Folder Essential 9,Office Supplies,Stationery,217.02,294.86,136
+P0010,Green Tea Classic 10,Grocery,Staples,90.75,135.67,199
+P0011,Juice Prime 11,Grocery,Beverages,134.93,174.74,138
+P0012,Hair Dryer Essential 12,Personal Care,Grooming,172.1,271.25,218
+P0013,Headphones Pro 13,Electronics,Audio,201.85,276.24,36
+P0014,Storage Box Elite 14,Home & Kitchen,Appliances,100.72,162.14,137
+P0015,Storage Box Essential 15,Home & Kitchen,Appliances,187.01,268.05,211
+P0016,Gym Bag Smart 16,Sports & Fitness,Equipment,92.41,152.36,55
+P0017,Yoga Mat Pro 17,Sports & Fitness,Equipment,215.69,270.01,60
+P0018,Juice Plus 18,Grocery,Packaged Food,98.04,143.15,139
+P0019,Gym Bag Pro 19,Sports & Fitness,Sportswear,171.03,211.02,246
+P0020,T-Shirt Classic 20,Sports & Fitness,Sportswear,30.55,42.29,136
+P0021,Power Bank Prime 21,Electronics,Computer,128.4,157.93,180
+P0022,Printer Paper Classic 22,Office Supplies,Paper,191.34,274.29,219
+P0023,Gym Bag Classic 23,Sports & Fitness,Fitness,123.69,152.46,112
+P0024,Notebook Essential 24,Office Supplies,Paper,219.87,357.3,41
+P0025,Cooking Oil Plus 25,Grocery,Packaged Food,244.56,349.81,52
+P0026,Chair Prime 26,Home & Kitchen,Storage,68.47,108.87,128
+P0027,Water Bottle Max 27,Home & Kitchen,Furniture,101.55,151.89,115
+P0028,Face Wash Essential 28,Personal Care,Wellness,58.5,78.33,170
+P0029,Gym Bag Essential 29,Sports & Fitness,Outdoor,4.78,7.23,35
+P0030,Cookware Set Classic 30,Home & Kitchen,Kitchen,20.5,26.48,191
+P0031,Body Lotion Prime 31,Personal Care,Haircare,181.67,289.71,167
+P0032,Sunscreen Elite 32,Personal Care,Haircare,202.45,257.01,44
+P0033,Cereal Smart 33,Grocery,Packaged Food,104.54,165.8,33
+P0034,Coffee Smart 34,Grocery,Beverages,182.87,284.6,47
+P0035,Storage Box Elite 35,Home & Kitchen,Furniture,37.63,47.65,138
+P0036,Desk Lamp Plus 36,Home & Kitchen,Kitchen,15.5,25.57,234
+P0037,Headphones Essential 37,Electronics,Accessories,44.08,62.08,74
+P0038,Shampoo Smart 38,Personal Care,Skincare,3.53,4.81,220
+P0039,Trimmer Elite 39,Personal Care,Grooming,41.23,54.4,34
+P0040,Skipping Rope Classic 40,Sports & Fitness,Fitness,17.12,24.9,148
+P0041,Yoga Mat Plus 41,Sports & Fitness,Outdoor,213.28,258.54,37
+P0042,Biscuits Plus 42,Grocery,Snacks,235.57,341.05,168
+P0043,Gym Bag Plus 43,Sports & Fitness,Fitness,106.55,154.96,153
+P0044,Printer Paper Classic 44,Office Supplies,Office Equipment,61.96,84.64,191
+P0045,Biscuits Classic 45,Grocery,Staples,232.47,376.55,22
+P0046,Face Wash Essential 46,Personal Care,Skincare,127.95,158.95,109
+P0047,USB Hub Max 47,Electronics,Audio,41.96,65.96,200
+P0048,Stapler Max 48,Office Supplies,Stationery,233.14,286.46,244
+P0049,Cookware Set Plus 49,Home & Kitchen,Appliances,186.38,233.55,92
+P0050,Skipping Rope Classic 50,Sports & Fitness,Outdoor,53.29,78.77,87
+P0051,Running Shoes Pro 51,Sports & Fitness,Equipment,25.8,35.58,90
+P0052,USB Hub Prime 52,Electronics,Accessories,160.37,208.98,209
+P0053,Body Lotion Pro 53,Personal Care,Wellness,30.63,49.75,196
+P0054,Air Fryer Classic 54,Home & Kitchen,Kitchen,146.88,183.54,52
+P0055,USB Hub Pro 55,Electronics,Computer,225.03,287.75,83
+P0056,Cereal Smart 56,Grocery,Beverages,243.54,373.17,80
+P0057,Desk Lamp Pro 57,Home & Kitchen,Furniture,47.3,76.37,220
+P0058,Moisturizer Prime 58,Personal Care,Haircare,197.48,243.06,243
+P0059,Bluetooth Speaker Essential 59,Electronics,Mobile,204.7,285.83,98
+P0060,Cookware Set Essential 60,Home & Kitchen,Furniture,101.42,132.96,37
+P0061,Stapler Smart 61,Office Supplies,Office Equipment,170.84,269.33,104
+P0062,USB Hub Prime 62,Electronics,Accessories,146.41,240.44,29
+P0063,USB Hub Classic 63,Electronics,Mobile,110.79,181.98,49
+P0064,Moisturizer Pro 64,Personal Care,Haircare,178.07,210.26,226
+P0065,Running Shoes Smart 65,Sports & Fitness,Outdoor,20.28,30.26,104
+P0066,Skipping Rope Plus 66,Sports & Fitness,Sportswear,180.78,238.84,99
+P0067,Cereal Smart 67,Grocery,Packaged Food,175.21,252.4,69
+P0068,Hair Dryer Prime 68,Personal Care,Wellness,155.03,204.86,160
+P0069,USB Hub Essential 69,Electronics,Computer,109.18,158.59,187
+P0070,Desk Organizer Elite 70,Office Supplies,Writing,169.88,241.27,223
+P0071,Rice Plus 71,Grocery,Snacks,73.1,109.07,178
+P0072,File Folder Essential 72,Office Supplies,Stationery,169.18,217.49,70
+P0073,Cookware Set Essential 73,Home & Kitchen,Kitchen,246.03,361.0,216
+P0074,Keyboard Essential 74,Electronics,Mobile,180.43,245.47,122
+P0075,Water Bottle Pro 75,Home & Kitchen,Furniture,223.49,354.1,246
+P0076,Bluetooth Speaker Prime 76,Electronics,Mobile,201.62,303.86,138
+P0077,Headphones Plus 77,Electronics,Audio,115.75,180.18,190
+P0078,T-Shirt Elite 78,Sports & Fitness,Sportswear,154.33,234.28,149
+P0079,Shampoo Elite 79,Personal Care,Wellness,114.17,175.06,235
+P0080,Cooking Oil Elite 80,Grocery,Staples,157.81,206.58,39
+P0081,Green Tea Max 81,Grocery,Staples,85.95,137.5,40
+P0082,Storage Box Smart 82,Home & Kitchen,Furniture,174.41,263.71,36
+P0083,Moisturizer Elite 83,Personal Care,Wellness,105.7,135.0,127
+P0084,Sunscreen Smart 84,Personal Care,Skincare,120.81,196.09,96
+P0085,Body Lotion Essential 85,Personal Care,Wellness,123.59,161.69,144
+P0086,USB Hub Smart 86,Electronics,Mobile,181.87,286.45,52
+P0087,Fitness Band Pro 87,Sports & Fitness,Fitness,23.74,32.8,241
+P0088,Face Wash Max 88,Personal Care,Haircare,96.64,123.65,103
+P0089,Pen Set Smart 89,Office Supplies,Writing,65.31,79.58,24
+P0090,Cereal Essential 90,Grocery,Beverages,163.59,253.1,186
+P0091,Bluetooth Speaker Essential 91,Electronics,Accessories,210.29,309.55,81
+P0092,Water Bottle Plus 92,Home & Kitchen,Storage,142.3,182.49,199
+P0093,Printer Paper Plus 93,Office Supplies,Office Equipment,195.11,245.25,99
+P0094,USB Hub Smart 94,Electronics,Accessories,100.97,153.08,39
+P0095,Yoga Mat Max 95,Sports & Fitness,Outdoor,213.02,311.48,50
+P0096,Running Shoes Smart 96,Sports & Fitness,Fitness,166.4,201.74,185
+P0097,File Folder Smart 97,Office Supplies,Stationery,206.12,253.45,112
+P0098,Rice Prime 98,Grocery,Packaged Food,110.57,168.61,186
+P0099,Desk Organizer Smart 99,Office Supplies,Writing,206.96,301.84,102
+P0100,Mixer Elite 100,Home & Kitchen,Kitchen,63.23,88.42,176
+P0101,Cereal Pro 101,Grocery,Packaged Food,125.09,166.71,144
+P0102,Air Fryer Max 102,Home & Kitchen,Appliances,87.06,138.75,199
+P0103,Calculator Essential 103,Office Supplies,Stationery,24.15,36.67,145
+P0104,Skipping Rope Elite 104,Sports & Fitness,Outdoor,162.54,229.29,222
+P0105,USB Hub Essential 105,Electronics,Accessories,102.89,133.18,189
+P0106,Fitness Band Classic 106,Sports & Fitness,Sportswear,108.1,165.46,104
+P0107,Pen Set Max 107,Office Supplies,Writing,65.1,80.51,69
+P0108,Stapler Prime 108,Office Supplies,Stationery,50.31,76.83,90
+P0109,Coffee Essential 109,Grocery,Staples,76.17,102.8,97
+P0110,USB Hub Pro 110,Electronics,Audio,243.65,350.88,198
+P0111,Cookware Set Pro 111,Home & Kitchen,Storage,144.79,202.8,132
+P0112,Notebook Max 112,Office Supplies,Paper,235.44,330.68,230
+P0113,Keyboard Plus 113,Electronics,Mobile,145.52,218.66,58
+P0114,Cookware Set Essential 114,Home & Kitchen,Appliances,32.26,49.66,175
+P0115,T-Shirt Smart 115,Sports & Fitness,Outdoor,114.28,158.63,240
+P0116,Running Shoes Pro 116,Sports & Fitness,Equipment,153.58,234.65,215
+P0117,Mixer Plus 117,Home & Kitchen,Furniture,41.79,52.73,39
+P0118,Desk Lamp Elite 118,Home & Kitchen,Kitchen,173.27,242.73,28
+P0119,Water Bottle Max 119,Home & Kitchen,Appliances,176.64,246.13,195
+P0120,Air Fryer Essential 120,Home & Kitchen,Appliances,108.01,155.1,185
+P0121,Air Fryer Prime 121,Home & Kitchen,Appliances,20.64,25.96,98
+P0122,Fitness Band Plus 122,Sports & Fitness,Sportswear,118.77,157.12,123
+P0123,Desk Organizer Plus 123,Office Supplies,Writing,150.72,240.85,208
+P0124,Notebook Plus 124,Office Supplies,Office Equipment,59.54,89.13,240
+P0125,T-Shirt Max 125,Sports & Fitness,Fitness,145.33,223.61,64
+P0126,Moisturizer Prime 126,Personal Care,Wellness,249.25,345.18,228
+P0127,Trimmer Classic 127,Personal Care,Skincare,103.86,138.23,46
+P0128,Desk Lamp Elite 128,Home & Kitchen,Appliances,74.19,120.5,228
+P0129,Fitness Band Plus 129,Sports & Fitness,Fitness,80.69,107.47,217
+P0130,Hair Dryer Elite 130,Personal Care,Skincare,105.07,133.25,112
+P0131,Skipping Rope Elite 131,Sports & Fitness,Equipment,190.72,243.3,160
+P0132,Desk Lamp Elite 132,Home & Kitchen,Appliances,32.99,54.02,175
+P0133,Mixer Pro 133,Home & Kitchen,Furniture,139.41,170.61,235
+P0134,Wireless Mouse Prime 134,Electronics,Mobile,126.1,191.27,150
+P0135,Biscuits Elite 135,Grocery,Staples,245.12,317.32,161
+P0136,Storage Box Prime 136,Home & Kitchen,Storage,216.41,283.46,222
+P0137,Sunscreen Max 137,Personal Care,Grooming,205.68,270.04,96
+P0138,T-Shirt Prime 138,Sports & Fitness,Equipment,113.3,159.49,105
+P0139,Fitness Band Classic 139,Sports & Fitness,Equipment,217.79,357.39,81
+P0140,Dumbbells Smart 140,Sports & Fitness,Equipment,13.78,21.08,200
+P0141,Hair Dryer Prime 141,Personal Care,Wellness,125.35,150.09,148
+P0142,T-Shirt Plus 142,Sports & Fitness,Sportswear,218.93,303.64,154
+P0143,Hair Dryer Prime 143,Personal Care,Skincare,104.26,155.11,59
+P0144,Headphones Max 144,Electronics,Mobile,86.62,130.41,186
+P0145,Headphones Smart 145,Electronics,Computer,238.67,351.94,247
+P0146,Body Lotion Plus 146,Personal Care,Skincare,60.99,91.59,93
+P0147,Desk Lamp Plus 147,Home & Kitchen,Kitchen,190.81,288.28,45
+P0148,Hair Dryer Max 148,Personal Care,Haircare,226.15,271.75,223
+P0149,USB Hub Classic 149,Electronics,Computer,109.38,141.62,125
+P0150,Dumbbells Prime 150,Sports & Fitness,Outdoor,22.51,35.78,178
+P0151,Biscuits Prime 151,Grocery,Snacks,60.35,89.31,137
+P0152,File Folder Elite 152,Office Supplies,Stationery,225.6,338.06,60
+P0153,USB Hub Max 153,Electronics,Mobile,160.82,221.84,84
+P0154,Shampoo Smart 154,Personal Care,Grooming,213.77,262.96,117
+P0155,Gym Bag Max 155,Sports & Fitness,Sportswear,248.19,327.3,232
+P0156,Cereal Pro 156,Grocery,Packaged Food,142.78,214.5,210
+P0157,Headphones Max 157,Electronics,Mobile,194.61,250.69,225
+P0158,Stapler Essential 158,Office Supplies,Paper,156.36,234.31,204
+P0159,Rice Plus 159,Grocery,Snacks,226.14,335.54,99
+P0160,Body Lotion Classic 160,Personal Care,Skincare,183.89,224.78,95
+P0161,Printer Paper Essential 161,Office Supplies,Writing,35.64,51.09,113
+P0162,T-Shirt Prime 162,Sports & Fitness,Sportswear,66.47,104.2,143
+P0163,File Folder Plus 163,Office Supplies,Office Equipment,118.68,144.24,213
+P0164,Air Fryer Classic 164,Home & Kitchen,Storage,25.3,34.55,87
+P0165,Fitness Band Classic 165,Sports & Fitness,Fitness,169.19,253.11,169
+P0166,Face Wash Essential 166,Personal Care,Grooming,119.45,175.73,163
+P0167,Stapler Plus 167,Office Supplies,Paper,159.94,223.63,199
+P0168,Notebook Prime 168,Office Supplies,Writing,14.2,17.0,146
+P0169,Bluetooth Speaker Prime 169,Electronics,Accessories,99.0,134.08,210
+P0170,Juice Prime 170,Grocery,Packaged Food,221.7,329.85,233
+P0171,Moisturizer Pro 171,Personal Care,Wellness,173.5,222.45,133
+P0172,Cookware Set Classic 172,Home & Kitchen,Appliances,137.48,225.41,111
+P0173,USB Hub Essential 173,Electronics,Mobile,242.15,393.74,230
+P0174,Hair Dryer Essential 174,Personal Care,Skincare,161.5,235.9,25
+P0175,Bluetooth Speaker Prime 175,Electronics,Computer,197.38,251.95,232
+P0176,Gym Bag Essential 176,Sports & Fitness,Outdoor,203.82,262.83,218
+P0177,Mixer Prime 177,Home & Kitchen,Kitchen,246.92,354.06,224
+P0178,Water Bottle Pro 178,Home & Kitchen,Kitchen,35.56,47.95,221
+P0179,Cookware Set Prime 179,Home & Kitchen,Appliances,68.55,84.97,127
+P0180,Skipping Rope Plus 180,Sports & Fitness,Fitness,120.63,186.45,151
+P0181,Fitness Band Essential 181,Sports & Fitness,Fitness,236.52,283.91,220
+P0182,Biscuits Pro 182,Grocery,Staples,18.02,25.32,122
+P0183,Trimmer Elite 183,Personal Care,Skincare,21.15,25.76,175
+P0184,Storage Box Max 184,Home & Kitchen,Kitchen,157.21,228.76,202
+P0185,Calculator Max 185,Office Supplies,Writing,115.07,168.53,45
+P0186,Cooking Oil Essential 186,Grocery,Beverages,109.23,174.48,125
+P0187,Desk Organizer Smart 187,Office Supplies,Writing,183.21,243.1,100
+P0188,Cereal Prime 188,Grocery,Staples,172.64,242.2,43
+P0189,Keyboard Plus 189,Electronics,Accessories,186.91,253.29,53
+P0190,Gym Bag Classic 190,Sports & Fitness,Fitness,168.49,231.35,243
+P0191,Cooking Oil Pro 191,Grocery,Packaged Food,242.19,354.13,110
+P0192,Bluetooth Speaker Elite 192,Electronics,Audio,58.39,71.87,236
+P0193,Yoga Mat Max 193,Sports & Fitness,Sportswear,144.8,225.8,236
+P0194,Gym Bag Max 194,Sports & Fitness,Fitness,10.15,13.28,215
+P0195,Pen Set Pro 195,Office Supplies,Office Equipment,47.81,59.63,188
+P0196,Shampoo Pro 196,Personal Care,Skincare,25.66,36.68,116
+P0197,Moisturizer Prime 197,Personal Care,Wellness,94.4,143.41,218
+P0198,Yoga Mat Prime 198,Sports & Fitness,Fitness,41.88,61.58,192
+P0199,Keyboard Smart 199,Electronics,Computer,122.96,170.64,89
+P0200,Mixer Smart 200,Home & Kitchen,Kitchen,30.39,45.55,171
+P0201,Face Wash Essential 201,Personal Care,Grooming,100.63,147.09,21
+P0202,Storage Box Prime 202,Home & Kitchen,Appliances,191.75,252.35,50
+P0203,Webcam Smart 203,Electronics,Mobile,46.4,63.04,200
+P0204,Cookware Set Smart 204,Home & Kitchen,Appliances,215.86,259.01,24
+P0205,Sunscreen Classic 205,Personal Care,Skincare,145.21,210.48,201
+P0206,Cereal Plus 206,Grocery,Packaged Food,103.04,168.38,63
+P0207,T-Shirt Classic 207,Sports & Fitness,Equipment,24.77,39.06,82
+P0208,Body Lotion Plus 208,Personal Care,Wellness,100.75,133.58,106
+P0209,Air Fryer Prime 209,Home & Kitchen,Appliances,21.87,32.32,155
+P0210,T-Shirt Classic 210,Sports & Fitness,Outdoor,89.72,146.28,185
+P0211,Cookware Set Prime 211,Home & Kitchen,Furniture,66.22,83.54,59
+P0212,Green Tea Elite 212,Grocery,Beverages,117.6,169.93,168
+P0213,Sunscreen Classic 213,Personal Care,Grooming,40.29,48.84,133
+P0214,Cooking Oil Max 214,Grocery,Staples,149.08,200.57,38
+P0215,Desk Organizer Pro 215,Office Supplies,Writing,17.05,26.78,39
+P0216,Juice Smart 216,Grocery,Beverages,117.29,168.96,222
+P0217,Biscuits Essential 217,Grocery,Beverages,82.42,115.68,58
+P0218,Wireless Mouse Classic 218,Electronics,Mobile,245.65,299.6,185
+P0219,Storage Box Elite 219,Home & Kitchen,Kitchen,247.77,353.4,176
+P0220,Mixer Max 220,Home & Kitchen,Appliances,98.69,152.38,193
+P0221,T-Shirt Classic 221,Sports & Fitness,Fitness,19.28,23.61,193
+P0222,Moisturizer Prime 222,Personal Care,Grooming,85.34,124.07,56
+P0223,Stapler Smart 223,Office Supplies,Office Equipment,34.85,52.73,41
+P0224,Stapler Classic 224,Office Supplies,Writing,203.86,304.76,232
+P0225,Rice Smart 225,Grocery,Beverages,128.6,152.85,99
+P0226,Mixer Elite 226,Home & Kitchen,Furniture,50.43,83.21,59
+P0227,Headphones Plus 227,Electronics,Computer,128.4,184.09,209
+P0228,Skipping Rope Classic 228,Sports & Fitness,Fitness,219.47,322.73,172
+P0229,Shampoo Prime 229,Personal Care,Haircare,208.34,321.35,227
+P0230,Cookware Set Smart 230,Home & Kitchen,Storage,92.98,141.16,133
+P0231,T-Shirt Elite 231,Sports & Fitness,Sportswear,60.8,78.58,227
+P0232,Moisturizer Elite 232,Personal Care,Haircare,117.03,153.59,117
+P0233,Dumbbells Essential 233,Sports & Fitness,Equipment,200.91,250.14,84
+P0234,Headphones Classic 234,Electronics,Mobile,139.97,171.91,236
+P0235,Running Shoes Plus 235,Sports & Fitness,Fitness,191.49,250.51,151
+P0236,Cookware Set Essential 236,Home & Kitchen,Storage,204.73,326.7,26
+P0237,Trimmer Classic 237,Personal Care,Skincare,61.24,100.89,115
+P0238,Mixer Plus 238,Home & Kitchen,Kitchen,210.28,312.37,222
+P0239,Cookware Set Max 239,Home & Kitchen,Furniture,229.6,321.91,232
+P0240,Desk Lamp Pro 240,Home & Kitchen,Storage,226.75,269.59,75
+P0241,Cookware Set Max 241,Home & Kitchen,Storage,61.7,76.34,81
+P0242,Face Wash Plus 242,Personal Care,Wellness,209.66,296.65,157
+P0243,Webcam Prime 243,Electronics,Audio,74.94,88.48,110
+P0244,Storage Box Plus 244,Home & Kitchen,Storage,132.3,178.54,154
+P0245,Fitness Band Elite 245,Sports & Fitness,Fitness,13.75,18.73,115
+P0246,Pen Set Plus 246,Office Supplies,Stationery,88.17,134.41,180
+P0247,Bluetooth Speaker Pro 247,Electronics,Computer,90.02,120.55,184
+P0248,Water Bottle Elite 248,Home & Kitchen,Storage,159.04,248.33,36
+P0249,Coffee Max 249,Grocery,Packaged Food,52.79,81.92,246
+P0250,USB Hub Smart 250,Electronics,Computer,247.31,354.95,84
+P0251,USB Hub Classic 251,Electronics,Audio,215.95,259.67,187
+P0252,Notebook Classic 252,Office Supplies,Office Equipment,110.93,151.75,132
+P0253,Shampoo Elite 253,Personal Care,Grooming,173.94,235.28,224
+P0254,T-Shirt Plus 254,Sports & Fitness,Sportswear,182.59,222.23,174
+P0255,Mixer Plus 255,Home & Kitchen,Appliances,22.78,33.96,98
+P0256,Shampoo Elite 256,Personal Care,Wellness,89.83,107.79,242
+P0257,Pen Set Pro 257,Office Supplies,Writing,21.54,31.87,113
+P0258,Yoga Mat Prime 258,Sports & Fitness,Outdoor,212.62,318.65,132
+P0259,Wireless Mouse Essential 259,Electronics,Audio,195.29,264.07,118
+P0260,Gym Bag Prime 260,Sports & Fitness,Fitness,170.73,277.6,115
+P0261,Body Lotion Prime 261,Personal Care,Skincare,133.78,182.89,186
+P0262,Notebook Pro 262,Office Supplies,Paper,184.71,261.28,119
+P0263,Running Shoes Max 263,Sports & Fitness,Fitness,176.9,226.58,176
+P0264,Printer Paper Plus 264,Office Supplies,Writing,36.52,44.36,64
+P0265,Coffee Classic 265,Grocery,Packaged Food,167.96,254.2,160
+P0266,Running Shoes Prime 266,Sports & Fitness,Sportswear,178.82,288.94,183
+P0267,Chair Essential 267,Home & Kitchen,Appliances,32.98,42.03,55
+P0268,Cookware Set Classic 268,Home & Kitchen,Storage,139.84,189.26,225
+P0269,Gym Bag Plus 269,Sports & Fitness,Outdoor,19.24,26.3,203
+P0270,Juice Smart 270,Grocery,Packaged Food,192.98,302.39,38
+P0271,Water Bottle Plus 271,Home & Kitchen,Appliances,114.14,171.17,108
+P0272,Air Fryer Prime 272,Home & Kitchen,Furniture,109.86,176.66,34
+P0273,USB Hub Prime 273,Electronics,Audio,43.01,69.65,77
+P0274,File Folder Plus 274,Office Supplies,Office Equipment,64.9,95.95,161
+P0275,Stapler Max 275,Office Supplies,Paper,154.76,189.41,184
+P0276,Storage Box Classic 276,Home & Kitchen,Furniture,211.1,305.02,231
+P0277,Wireless Mouse Max 277,Electronics,Accessories,163.83,252.38,126
+P0278,Fitness Band Max 278,Sports & Fitness,Fitness,161.55,213.57,82
+P0279,Cereal Elite 279,Grocery,Packaged Food,21.02,25.4,132
+P0280,Trimmer Essential 280,Personal Care,Wellness,87.03,108.57,240
+P0281,Rice Classic 281,Grocery,Staples,243.92,302.82,114
+P0282,Running Shoes Essential 282,Sports & Fitness,Fitness,118.22,154.36,83
+P0283,Cookware Set Max 283,Home & Kitchen,Kitchen,236.51,375.14,127
+P0284,Air Fryer Classic 284,Home & Kitchen,Furniture,233.64,354.88,68
+P0285,Chair Elite 285,Home & Kitchen,Storage,126.19,167.2,25
+P0286,Power Bank Elite 286,Electronics,Mobile,241.77,309.74,110
+P0287,USB Hub Elite 287,Electronics,Accessories,150.59,237.35,192
+P0288,Body Lotion Pro 288,Personal Care,Grooming,212.25,293.44,245
+P0289,File Folder Smart 289,Office Supplies,Office Equipment,93.39,127.78,165
+P0290,Running Shoes Max 290,Sports & Fitness,Outdoor,21.16,29.98,215
+P0291,T-Shirt Plus 291,Sports & Fitness,Sportswear,34.78,42.62,115
+P0292,File Folder Prime 292,Office Supplies,Office Equipment,52.17,74.04,148
+P0293,Wireless Mouse Prime 293,Electronics,Accessories,179.26,279.26,152
+P0294,Body Lotion Prime 294,Personal Care,Haircare,84.01,123.34,61
+P0295,Body Lotion Classic 295,Personal Care,Grooming,128.31,182.14,145
+P0296,Biscuits Pro 296,Grocery,Staples,93.98,140.66,126
+P0297,T-Shirt Pro 297,Sports & Fitness,Sportswear,150.44,196.29,187
+P0298,Skipping Rope Pro 298,Sports & Fitness,Outdoor,147.13,185.4,181
+P0299,Green Tea Essential 299,Grocery,Packaged Food,10.8,17.56,48
+P0300,Desk Lamp Classic 300,Home & Kitchen,Kitchen,106.44,146.26,72
+P0301,Sunscreen Pro 301,Personal Care,Wellness,177.33,252.48,163
+P0302,Calculator Smart 302,Office Supplies,Writing,80.5,101.54,156
+P0303,Stapler Max 303,Office Supplies,Office Equipment,153.69,195.24,83
+P0304,Printer Paper Max 304,Office Supplies,Office Equipment,193.48,292.41,196
+P0305,Cereal Elite 305,Grocery,Packaged Food,89.15,144.32,223
+P0306,Cereal Plus 306,Grocery,Staples,144.65,207.62,249
+P0307,Sunscreen Prime 307,Personal Care,Grooming,74.74,98.3,202
+P0308,Keyboard Max 308,Electronics,Computer,187.59,240.22,231
+P0309,Gym Bag Max 309,Sports & Fitness,Sportswear,36.91,54.23,170
+P0310,Cookware Set Essential 310,Home & Kitchen,Furniture,160.57,193.43,125
+P0311,Notebook Prime 311,Office Supplies,Writing,4.28,6.16,60
+P0312,Trimmer Essential 312,Personal Care,Wellness,189.71,249.47,93
+P0313,Cooking Oil Plus 313,Grocery,Beverages,164.12,211.57,209
+P0314,Green Tea Smart 314,Grocery,Beverages,220.91,278.93,29
+P0315,Shampoo Max 315,Personal Care,Wellness,219.56,260.04,165
+P0316,Running Shoes Max 316,Sports & Fitness,Fitness,115.22,170.69,154
+P0317,Sunscreen Elite 317,Personal Care,Haircare,70.39,109.82,104
+P0318,Water Bottle Max 318,Home & Kitchen,Storage,180.49,214.17,106
+P0319,Printer Paper Smart 319,Office Supplies,Paper,207.27,294.78,42
+P0320,Shampoo Prime 320,Personal Care,Unknown,120.93,195.89,21
+P0321,Printer Paper Elite 321,Office Supplies,Writing,189.18,308.06,97
+P0322,Running Shoes Classic 322,Sports & Fitness,Fitness,174.11,210.53,50
+P0323,Shampoo Smart 323,Personal Care,Grooming,172.46,278.33,247
+P0324,Rice Plus 324,Grocery,Staples,160.76,260.77,114
+P0325,Dumbbells Prime 325,Sports & Fitness,Outdoor,121.11,168.81,175
+P0326,Stapler Elite 326,Office Supplies,Writing,190.07,295.93,231
+P0327,Water Bottle Plus 327,Home & Kitchen,Furniture,132.8,189.67,112
+P0328,Wireless Mouse Essential 328,Electronics,Accessories,144.46,180.64,103
+P0329,Yoga Mat Essential 329,Sports & Fitness,Equipment,180.08,253.87,250
+P0330,T-Shirt Pro 330,Sports & Fitness,Equipment,115.0,163.44,136
+P0331,Gym Bag Elite 331,Sports & Fitness,Fitness,169.17,224.12,25
+P0332,Sunscreen Pro 332,Personal Care,Grooming,187.21,271.79,31
+P0333,Hair Dryer Plus 333,Personal Care,Grooming,136.67,165.14,248
+P0334,Wireless Mouse Max 334,Electronics,Mobile,103.99,160.29,216
+P0335,Cereal Smart 335,Grocery,Packaged Food,113.79,183.32,116
+P0336,Hair Dryer Prime 336,Personal Care,Skincare,164.42,220.89,65
+P0337,Gym Bag Prime 337,Sports & Fitness,Equipment,182.78,234.81,20
+P0338,Keyboard Smart 338,Electronics,Computer,134.39,210.59,83
+P0339,Shampoo Max 339,Personal Care,Grooming,49.55,78.85,215
+P0340,Headphones Smart 340,Electronics,Accessories,154.89,250.93,247
+P0341,Bluetooth Speaker Plus 341,Electronics,Audio,27.92,33.39,173
+P0342,Green Tea Pro 342,Grocery,Beverages,102.36,132.06,75
+P0343,Power Bank Max 343,Electronics,Audio,60.84,98.0,167
+P0344,Printer Paper Max 344,Office Supplies,Office Equipment,219.44,360.6,153
+P0345,Mixer Max 345,Home & Kitchen,Storage,18.06,29.36,245
+P0346,Rice Smart 346,Grocery,Snacks,140.3,168.65,108
+P0347,Cooking Oil Classic 347,Grocery,Packaged Food,174.99,240.07,96
+P0348,Sunscreen Elite 348,Personal Care,Haircare,62.52,80.4,239
+P0349,Cooking Oil Elite 349,Grocery,Snacks,228.94,330.66,126
+P0350,Fitness Band Essential 350,Sports & Fitness,Outdoor,65.98,88.1,40
+P0351,Face Wash Essential 351,Personal Care,Grooming,15.73,21.35,174
+P0352,T-Shirt Plus 352,Sports & Fitness,Fitness,49.48,76.1,205
+P0353,Biscuits Essential 353,Grocery,Snacks,217.76,291.03,23
+P0354,Water Bottle Plus 354,Home & Kitchen,Furniture,187.48,287.69,82
+P0355,Biscuits Essential 355,Grocery,Snacks,139.36,215.24,117
+P0356,Moisturizer Max 356,Personal Care,Grooming,91.83,146.46,139
+P0357,Headphones Classic 357,Electronics,Mobile,228.84,309.9,125
+P0358,Webcam Prime 358,Electronics,Audio,7.01,10.09,169
+P0359,Running Shoes Prime 359,Sports & Fitness,Equipment,51.46,66.29,165
+P0360,Chair Classic 360,Home & Kitchen,Storage,66.56,104.24,205
+P0361,Biscuits Prime 361,Grocery,Packaged Food,183.99,247.56,55
+P0362,Green Tea Pro 362,Grocery,Packaged Food,132.41,208.46,39
+P0363,Cooking Oil Pro 363,Grocery,Beverages,104.86,165.26,79
+P0364,Wireless Mouse Essential 364,Electronics,Audio,127.92,173.38,178
+P0365,Rice Elite 365,Grocery,Packaged Food,6.89,9.85,125
+P0366,Power Bank Max 366,Electronics,Accessories,135.33,177.92,148
+P0367,Cooking Oil Prime 367,Grocery,Packaged Food,29.43,36.06,58
+P0368,Chair Max 368,Home & Kitchen,Furniture,204.36,266.82,121
+P0369,Keyboard Elite 369,Electronics,Computer,142.56,234.57,77
+P0370,Stapler Pro 370,Office Supplies,Stationery,26.09,35.44,161
+P0371,Hair Dryer Pro 371,Personal Care,Skincare,176.6,215.25,236
+P0372,Body Lotion Plus 372,Personal Care,Grooming,224.01,361.1,78
+P0373,Mixer Pro 373,Home & Kitchen,Storage,231.27,347.29,91
+P0374,Dumbbells Classic 374,Sports & Fitness,Fitness,6.87,8.78,56
+P0375,Coffee Max 375,Grocery,Packaged Food,43.13,55.77,233
+P0376,Trimmer Prime 376,Personal Care,Grooming,198.25,298.16,40
+P0377,Yoga Mat Plus 377,Sports & Fitness,Sportswear,110.96,174.67,107
+P0378,T-Shirt Classic 378,Sports & Fitness,Equipment,10.32,13.5,135
+P0379,Moisturizer Smart 379,Personal Care,Haircare,109.67,164.45,189
+P0380,Sunscreen Max 380,Personal Care,Skincare,200.12,303.21,41
+P0381,Desk Organizer Prime 381,Office Supplies,Paper,185.69,246.75,47
+P0382,USB Hub Elite 382,Electronics,Accessories,91.9,120.09,53
+P0383,Keyboard Elite 383,Electronics,Audio,140.58,199.74,46
+P0384,USB Hub Plus 384,Electronics,Accessories,150.44,232.98,241
+P0385,Moisturizer Smart 385,Personal Care,Skincare,98.79,120.5,250
+P0386,Gym Bag Prime 386,Sports & Fitness,Outdoor,172.27,217.0,88
+P0387,Desk Organizer Prime 387,Office Supplies,Unknown,18.63,25.79,127
+P0388,File Folder Plus 388,Office Supplies,Writing,92.2,149.71,204
+P0389,Juice Essential 389,Grocery,Packaged Food,116.09,144.38,21
+P0390,Sunscreen Smart 390,Personal Care,Grooming,201.61,269.13,105
+P0391,Moisturizer Classic 391,Personal Care,Haircare,151.99,229.02,142
+P0392,Desk Organizer Classic 392,Office Supplies,Paper,74.99,112.98,145
+P0393,Running Shoes Smart 393,Sports & Fitness,Outdoor,72.23,111.91,113
+P0394,Power Bank Prime 394,Electronics,Audio,171.38,246.54,206
+P0395,Trimmer Max 395,Personal Care,Haircare,208.33,252.6,237
+P0396,Shampoo Max 396,Personal Care,Wellness,62.78,93.52,203
+P0397,Face Wash Elite 397,Personal Care,Wellness,247.7,348.08,122
+P0398,Gym Bag Pro 398,Sports & Fitness,Equipment,198.31,267.52,249
+P0399,Yoga Mat Essential 399,Sports & Fitness,Fitness,165.43,222.81,185
+P0400,Gym Bag Smart 400,Sports & Fitness,Fitness,241.8,323.01,223
